@@ -1,10 +1,6 @@
 # 📊 Math Visualiser
 
 An interactive, web-based math visualization tool built with **Next.js**, **React**, and **Tailwind CSS**. Designed to simplify math learning and graphing with clean UI and powerful features.
-
-[![GitHub stars](https://img.shields.io/github/stars/Ck243414/Math_Visualizer?style=social)](https://github.com/Ck243414/Math_Visualizer/stargazers)
-![License](https://img.shields.io/github/license/Ck243414/Math_Visualizer)
-
 ---
 
 ## ✨ Features
