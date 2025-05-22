@@ -1,6 +1,7 @@
 # 📊 Math Visualiser
 
 An interactive, web-based math visualization tool built with **Next.js**, **React**, and **Tailwind CSS**. Designed to simplify math learning and graphing with clean UI and powerful features.
+
 ---
 
 ## ✨ Features
@@ -83,10 +84,6 @@ If you found this project useful, consider:
 - 📹 Creating content (video/blog) about your experience  
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for full details.
 
 ### Local Setup
 
