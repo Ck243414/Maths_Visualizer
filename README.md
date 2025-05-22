@@ -22,7 +22,7 @@ An interactive, web-based math visualization tool built with **Next.js**, **Reac
 
 > See it in action below:
 
-![Math Visualiser Demo](docs/demo.gif)
+![Math Visualiser Demo](docs/Demo_Maths_Visual.gif)
 
 ---
 
