@@ -2,7 +2,6 @@
 
 An interactive, web-based math visualization tool built with **Next.js**, **React**, and **Tailwind CSS**. Designed to simplify math learning and graphing with clean UI and powerful features.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00d26a?logo=vercel&logoColor=white)](https://your-live-demo-url.vercel.app)
 [![GitHub stars](https://img.shields.io/github/stars/<YOUR_USERNAME>/Math_Visualiser?style=social)](https://github.com/<YOUR_USERNAME>/Math_Visualiser/stargazers)
 ![License](https://img.shields.io/github/license/<YOUR_USERNAME>/Math_Visualiser)
 
@@ -60,6 +59,44 @@ An interactive, web-based math visualization tool built with **Next.js**, **Reac
 
 - Node.js (v18 or later)
 - npm or yarn
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. **Fork** this repo  
+2. **Create a branch**:  
+   ```bash
+   git checkout -b feature/my-feature
+   ```
+3. **Commit your changes**:  
+   ```bash
+   git commit -m "feat: add my feature"
+   ```
+4. **Push to GitHub**:  
+   ```bash
+   git push origin feature/my-feature
+   ```
+5. **Open a Pull Request**
+
+Please make sure your code follows the existing style and includes relevant documentation or tests if necessary.
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider:
+
+- ⭐ Giving it a star on GitHub  
+- 🔗 Sharing it with your peers or community  
+- 🐛 Reporting bugs or suggesting features  
+- 📹 Creating content (video/blog) about your experience  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for full details.
 
 ### Local Setup
 
