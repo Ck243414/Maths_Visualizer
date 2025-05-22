@@ -21,12 +21,6 @@ An interactive, web-based math visualization tool built with **Next.js**, **Reac
 
 ---
 
-## 🌐 Live Demo
-
-👉 Try it here: [https://your-live-demo-url.vercel.app](https://your-live-demo-url.vercel.app)
-
----
-
 ## 📽️ Demo GIF
 
 > See it in action below:
@@ -100,7 +94,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ### Local Setup
 
-```bash
 git clone https://github.com/<YOUR_USERNAME>/Math_Visualiser.git
 cd Math_Visualiser
 npm install --legacy-peer-deps
