@@ -33,7 +33,7 @@ An interactive, web-based math visualization tool built with **Next.js**, **Reac
 
 | Home Page | Graph View |
 |-----------|------------|
-| ![Home Screenshot](docs/home_page.jif) | ![Graph Screenshot](docs/calculus2.jpg) |
+| ![Home Screenshot](docs/home_page.jpg) | ![Graph Screenshot](docs/calculus2.jpg) |
 
 ---
 
